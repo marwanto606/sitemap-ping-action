@@ -1,0 +1,7 @@
+- name: atymic/sitemap-ping-action
+  # You may pin to the exact commit or the version.
+  # uses: atymic/sitemap-ping-action@de5c5060bedcb83e4c83ce01b0e193ebc2c73a62
+  uses: atymic/sitemap-ping-action@1.0.0
+  with:
+    # Root sitemap URL
+    sitemap-url: https://www.marwanto606.com/sitemap.xml
